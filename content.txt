@@ -1,0 +1,3 @@
+### Short Description
+
+Eval is a simple, elegant calculator application built using HTML, CSS, and JavaScript, designed to perform basic arithmetic operations.
