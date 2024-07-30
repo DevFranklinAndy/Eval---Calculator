@@ -21,7 +21,7 @@ Eval is a simple, elegant calculator application built using HTML, CSS, and Java
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone [DevFranklinAndy](https://github.com/DevFranklinAndy/eval-calculator.git)
+   git clone [DevFranklinAndy](https://github.com/DevFranklinAndy/Eval---Calculator)
 
 2. Navigate to the project directory:
    cd eval-calculator
